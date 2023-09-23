@@ -6,7 +6,7 @@
  - [Mint Base if for builders NFT](https://base.mirror.xyz/hwNwqXHVoLlO8s4DZppog4DfGvM34tigaDjOWuEJQfY#:~:text=Mint%20%E2%80%9CBase%20is%20for%20builders%E2%80%9D%20today)
  - [Mint Bridge to Base NFT](https://nft.coinbase.com/mint/bridgetobase)
 
-### Follow: https://t.me/timfamecode
+### Follow: https://t.me/thelaziestcoder
 
 ### Settings
 `files/wallets.txt` - Wallets with private keys \
